@@ -17,7 +17,7 @@ La lógica de negocio del proyecto incluye la gestión de facturas electrónicas
 ## Hito 1
 ### Configuración de GitHub
 
-Se encuentra en [Configuración GitHub](./doc/ConfiguracionSSH.md).
+Se encuentra en [Configuración GitHub](./doc/ConfiguracionGit.md).
 
 
 ## Licencia
